@@ -9,5 +9,5 @@ Also, I barely got to use it for the robot, so it wouldn't have mattered anyway.
 But since it's open-sourced, other teams can use this too. Excluding like adults/mentors, cuz they're probably just gonna code the whole robot for the kids instead of coaching, 
 
 
-    Updates
+Updates:
 I'm gonna make a new update, with another method of combining the history position method, combined with the end goal method after the tournament maybe, and I might make it more user-friendly.
