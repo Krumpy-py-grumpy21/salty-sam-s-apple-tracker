@@ -1,6 +1,6 @@
 # Salty Sam's apple tracker
 
-This is for the 2026-2027 James Denman Robotics robot code I made personally. 
+This is for the 2026-2027 Robotics First Lego League robot code I made personally. 
 
 I made it open-sourced Mostly for the judges, and because I think it's cool to show people since, I liked learning to do this more than trying to win the tournament.
 
